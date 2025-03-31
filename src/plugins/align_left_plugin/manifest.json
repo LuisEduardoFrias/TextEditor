@@ -1,0 +1,7 @@
+{
+	"id": "alignLeft",
+	"label": "alignLeft tool",
+	"icon": "Icon",
+	"plugin": "alignLeftPlugin",
+	"category": "paragraph"
+}

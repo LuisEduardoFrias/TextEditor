@@ -1,0 +1,7 @@
+{
+	"id": "italica",
+	"label": "italica tool",
+	"icon": "Icon",
+	"plugin": "italicaPlugin",
+	"category": "fonts"
+}

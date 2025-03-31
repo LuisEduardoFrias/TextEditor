@@ -1,0 +1,21 @@
+.editor__ {
+	width: 100%;
+	height: 100%;
+	overflow-y: scroll;
+	display: flex;
+	justify-content: center;
+	padding-block: 5%;
+}
+
+.page {
+	background-color: #fff;
+	color: #000;
+	padding: 5px;
+	width: 90%;
+	height: 800px;
+}
+
+
+.page:focus {
+	outline: none;
+}

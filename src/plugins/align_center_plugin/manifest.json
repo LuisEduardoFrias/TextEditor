@@ -1,0 +1,7 @@
+{
+	"id": "alignCenter",
+	"label": "alignCenter tool",
+	"icon": "Icon",
+	"plugin": "alignCenterPlugin",
+	"category": "paragraph"
+}

@@ -1,0 +1,7 @@
+{
+	"id": "underline",
+	"label": "underline tool",
+	"icon": "Icon",
+	"plugin": "underlinePlugin",
+	"category": "fonts"
+}

@@ -1,0 +1,7 @@
+{
+	"id": "bold",
+	"label": "Bold tool",
+	"icon": "Icon",
+	"plugin": "boldPlugin",
+	"category": "fonts"
+}

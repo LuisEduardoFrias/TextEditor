@@ -1,0 +1,7 @@
+{
+	"id": "color",
+	"label": "color tool",
+	"icon": "Icon",
+	"plugin": "colorPlugin",
+	"category": "fonts"
+}

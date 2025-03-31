@@ -1,0 +1,7 @@
+{
+	"id": "alignJustify",
+	"label": "alignJustify tool",
+	"icon": "Icon",
+	"plugin": "alignJustifyPlugin",
+	"category": "paragraph"
+}
