@@ -37,7 +37,11 @@ export default function PluginManager() {
 			}
 
 			for (const plugin of groupPlugins) {
-				core.on(`menu:${plugin[0]}:optionSelected`, plugin[1][0].imports.default.applyFormat);
+				if (plugin[0] === "editorFormat") {
+					core.on(`menu:editorFormat`, plugin[1][0].imports.default.applyFormat);
+				} else {
+					core.on(`menu:${plugin[0]}:optionSelected`, plugin[1][0].imports.default.applyFormat);
+				}
 			}
 		})()
 	}, []);

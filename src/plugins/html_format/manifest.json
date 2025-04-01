@@ -1,0 +1,6 @@
+{
+	"id": "htmlFormet",
+	"label": "htmlFormet tool",
+	"plugin": "htmlFormetPlugin",
+	"category": "editorFormat"
+}
